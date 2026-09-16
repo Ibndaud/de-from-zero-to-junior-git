@@ -21,8 +21,8 @@ Data Engineer с нуля до junior (NovaData. - stepik.org/course/137235)
 3. Развить свои знания в области DE и достичь эксперизы.
 
 ## :handshake: Связаться со мной
-- Email: email@example.com
-- Телефон: +123 456 7890
+- Email: (some example email)
+- Телефон: (some example phone number)
 
 #### Заключение
 Этот "README" - ...
